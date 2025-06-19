@@ -1,5 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/mathgrok/offering/main",
   "bd": "bd/BT0AADA.wav",
+  "ex": "examples/example-1.mp3",
   "vessel": "vessel/past_self.mp3"
 }
